@@ -1,0 +1,7 @@
+name,age,score,passed,city,age_group,score_category,result,score_normalized,age_normalized,high_achiever,course_ML,course_NLP
+Alice,25.0,92.5,1,NYC,Young,High,Pass,0.9545454545454546,0.0,True,True,False
+Charlie,28.0,78.3,1,NYC,Mid,Medium,Pass,0.6963636363636363,0.3,False,False,True
+Diana,28.0,88.0,1,Chicago,Mid,High,Pass,0.8727272727272727,0.3,True,True,False
+Frank,35.0,95.0,1,NYC,Senior,High,Pass,1.0,1.0,True,False,True
+Grace,29.0,40.0,0,Chicago,Mid,Low,Fail,0.0,0.4,False,True,False
+Unknown,27.0,80.0,1,Unknown,Mid,High,Pass,0.7272727272727273,0.2,False,False,True
